@@ -1,0 +1,9 @@
+﻿  game.c
+D:\github_sy\카드짝맞추기\카드짝맞추기\game.c(56,13): warning C4098: 'title': 'void' 함수에서 값을 반환하고 있습니다.
+D:\github_sy\카드짝맞추기\카드짝맞추기\game.c(268,12): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+D:\github_sy\카드짝맞추기\카드짝맞추기\game.c(268,9): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+D:\github_sy\카드짝맞추기\카드짝맞추기\game.c(331,21): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  game1.c
+  코드를 생성하고 있습니다...
+D:\github_sy\카드짝맞추기\카드짝맞추기\game.c(130): warning C4715: 'mainPtr': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  카드짝맞추기.vcxproj -> D:\github_sy\카드짝맞추기\Debug\카드짝맞추기.exe
